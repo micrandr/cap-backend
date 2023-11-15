@@ -1,0 +1,1 @@
+import{a3 as s}from"./index-625fd2ac.js";const r=()=>s.get("/user_accesses"),c=e=>s.get(`/user_accesses/${e}`),n=e=>s.post("/user_accesses",e),u=(e,t)=>s.put(`/user_accesses/${e}`,t),o=e=>s.delete(`/user_accesses/${e}`),a=()=>s.delete("/user_accesses"),l=e=>s.get(`/user_accesses?title=${e}`),p={getAll:r,get:c,create:n,update:u,remove:o,removeAll:a,findByTitle:l};export{p as U};

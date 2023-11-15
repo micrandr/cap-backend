@@ -1,0 +1,1 @@
+import{j as o}from"./index-625fd2ac.js";import{B as r}from"./Breadcrumb-cfeb577a.js";import{D as t}from"./DataEditRoom-5d4d3ed6.js";import"./SwitcherAccessCar-00f81580.js";const i=()=>o.jsxs(o.Fragment,{children:[o.jsx(r,{pageName:"Salle de formation"}),o.jsx(t,{})]});export{i as default};
