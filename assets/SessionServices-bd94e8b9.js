@@ -1,1 +1,0 @@
-import{a3 as e}from"./index-625fd2ac.js";const n=()=>e.get("/sessions"),o=s=>e.get(`/sessions/${s}`),r=s=>e.post("/sessions",s),i=(s,t)=>e.put(`/sessions/${s}`,t),c=s=>e.delete(`/sessions/${s}`),u=()=>e.delete("/sessions"),l=s=>e.get(`/sessions?title=${s}`),a={getAll:n,get:o,create:r,update:i,remove:c,removeAll:u,findByTitle:l};export{a as S};

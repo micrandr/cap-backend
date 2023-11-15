@@ -1,1 +1,0 @@
-import{a3 as t}from"./index-625fd2ac.js";const o=()=>t.get("/compagnies"),r=e=>t.get(`/compagnies/${e}`),s=e=>t.post("/compagnies",e),c=(e,n)=>t.put(`/compagnies/${e}`,n),p=e=>t.delete(`/compagnies/${e}`),g={getAll:o,get:r,create:s,update:c,remove:p};export{g as C};
